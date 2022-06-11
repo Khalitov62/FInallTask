@@ -72,6 +72,8 @@
 
 #cards .container .row .maincard .box:hover .basket .icon {
   background-color: white;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+          box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 
 #cards .container .row .maincard .box:hover .basket .icon i {
@@ -100,8 +102,8 @@
 }
 
 #cards .container .row .maincard .box .basket .icon {
-  -webkit-box-shadow: #f3b88e;
-          box-shadow: #f3b88e;
+  -webkit-box-shadow: #ecb9b0 -5px 5px;
+          box-shadow: #ecb9b0 -5px 5px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
